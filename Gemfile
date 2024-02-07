@@ -23,6 +23,12 @@ gem "turbo-rails"
 # Hotwire's modest JavaScript framework [https://stimulus.hotwired.dev]
 gem "stimulus-rails"
 
+# Gemfile
+gem "bootstrap", "~> 5.2"
+gem "simple_form"
+gem "sassc-rails" # Uncomment this line
+
+
 # Use Redis adapter to run Action Cable in production
 # gem "redis", ">= 4.0.1"
 
